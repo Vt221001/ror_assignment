@@ -22,21 +22,18 @@ This is a web application for performing matrix multiplication. The frontend is 
 ### Backend (Ruby on Rails API)
 1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   https://github.com/Vt221001/ror_assignment.git
    ```
-2. Navigate to the backend folder:
+2. Navigate to the matrix-api folder:
    ```sh
-   cd backend
+   cd matrix-api
    ```
 3. Install dependencies:
    ```sh
    bundle install
    ```
-4. Set up the database:
-   ```sh
-   rails db:create db:migrate
-   ```
-5. Start the Rails server:
+
+4. Start the Rails server:
    ```sh
    rails s
    ```
